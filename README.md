@@ -42,7 +42,7 @@ src="https://img.shields.io/github/followers/3jbh?logo=github&style=for-the-badg
 
 
 <h2><strong>📞 Contact Me: frosted#0001</strong></h2>
-<a href="https://discord.com/users/923563369989046324"><img align="left" src="https://lanyard.cnrad.dev/api/923563369989046324"></a>
+<a href="https://discord.com/users/888899856389783574"><img align="left" src="https://lanyard.cnrad.dev/api/888899856389783574"></a>
 
 
   ![Snake animation](https://github.com/3JBH/3JBH/blob/output/github-contribution-grid-snake.svg)
